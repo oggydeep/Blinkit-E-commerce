@@ -1,8 +1,8 @@
-# 🛒 Zepto E-commerce Inventory Data Analysis using SQL
+# 🛒 Blinkit E-commerce Inventory Data Analysis using SQL
 
 ## 📌 Project Overview
 
-This project demonstrates end-to-end SQL data analysis on a real-world **Zepto e-commerce inventory dataset**. The objective was to simulate the workflow of a Data Analyst by performing data exploration, cleaning, and business analysis using PostgreSQL.
+This project demonstrates end-to-end SQL data analysis on a real-world **blinkit e-commerce inventory dataset**. The objective was to simulate the workflow of a Data Analyst by performing data exploration, cleaning, and business analysis using PostgreSQL.
 
 The project focuses on transforming raw inventory data into meaningful business insights that can support pricing strategies, inventory management, and product performance analysis.
 
@@ -23,13 +23,13 @@ The project focuses on transforming raw inventory data into meaningful business 
 * **Database:** PostgreSQL
 * **Language:** SQL
 * **Tools:** pgAdmin 4
-* **Dataset:** Zepto E-commerce Inventory Dataset (Kaggle)
+* **Dataset:** blinkit E-commerce Inventory Dataset
 
 ---
 
 # 📂 Dataset Information
 
-The dataset contains product inventory information scraped from Zepto's online grocery platform.
+The dataset contains product inventory information scraped from blinkit's online grocery platform.
 
 ### Features
 
